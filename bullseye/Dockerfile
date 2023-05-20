@@ -3,7 +3,7 @@
 ###########################################################
 FROM cm2network/steamcmd:root
 
-LABEL maintainer="walentinlamonos@gmail.com"
+LABEL maintainer="daniel.macdonald1982@gmail.com"
 
 ENV STEAMAPPID 1424230
 ENV STEAMAPP holdfastnaw
