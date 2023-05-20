@@ -1,3 +1,1 @@
-### TO-DO
-
-Write new Readme
+Currently, set aside as the V Rising Servers currently do not run on Linux :/
